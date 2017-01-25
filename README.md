@@ -1,8 +1,8 @@
-= Formulas supported = 
+# Formulas supported 
 
 At the moment being, just keepass is supported.
 
-= Install the Formula =
+# Install the Formula 
 
 brew install jfzazo/securitybrew/formula/<formula>
 
